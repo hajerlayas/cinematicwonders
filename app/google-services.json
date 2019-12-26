@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817385357520",
+    "firebase_url": "https://cinematic-wonders.firebaseio.com",
+    "project_id": "cinematic-wonders",
+    "storage_bucket": "cinematic-wonders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817385357520:android:a52542c8a2770d26",
+        "android_client_info": {
+          "package_name": "com.example.cinematic_wonders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817385357520-gvfqlbnfmqi9qbsgjvhris6sgpibdjfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinematic_wonders",
+            "certificate_hash": "164941a62bccb7564875a69e69c43ea1f81f0f95"
+          }
+        },
+        {
+          "client_id": "817385357520-m7vlkp42k591kb3d8eppcj18cio1h1jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_Q-6xd1vGlJ1-2C2lYqGJV-CZMjg2m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817385357520-m7vlkp42k591kb3d8eppcj18cio1h1jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
